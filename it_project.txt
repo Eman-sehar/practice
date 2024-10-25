@@ -3,3 +3,5 @@ hii
 bye
 branch master
 one more line
+conflict
+ master
